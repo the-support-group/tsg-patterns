@@ -1,0 +1,10 @@
+{
+  "name": "tsg-patterns",
+  "homepage": "https://github.com/the-support-group/tsg-patterns.git",
+  "authors": [
+    "Peter Chiu"
+  ],
+  "main": [
+    "dist/main.css"
+  ]
+}
